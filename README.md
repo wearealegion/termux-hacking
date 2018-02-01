@@ -1,0 +1,2 @@
+# termux-hacking
+termux
